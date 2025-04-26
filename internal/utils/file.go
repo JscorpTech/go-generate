@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/JscorpTech/jst-go/go-generate/internal/domain"
-	"github.com/JscorpTech/jst-go/go-generate/static"
+	"github.com/JscorpTech/go-generate/internal/domain"
+	"github.com/JscorpTech/go-generate/static"
 )
 
 type file struct{}

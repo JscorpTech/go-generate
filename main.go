@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/JscorpTech/jst-go/go-generate/cmd"
+	"github.com/JscorpTech/go-generate/cmd"
 )
 
 func main() {

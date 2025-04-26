@@ -6,7 +6,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/JscorpTech/jst-go/go-generate/internal/services"
+	"github.com/JscorpTech/go-generate/internal/services"
 	"github.com/spf13/cobra"
 )
 

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/JscorpTech/jst-go/go-generate/internal/domain"
+	"github.com/JscorpTech/go-generate/internal/domain"
 )
 
 type pizzaGptProvider struct {

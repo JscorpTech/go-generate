@@ -5,8 +5,8 @@ import (
 	"log"
 	"regexp"
 
-	"github.com/JscorpTech/jst-go/go-generate/internal/domain"
-	"github.com/JscorpTech/jst-go/go-generate/internal/providers"
+	"github.com/JscorpTech/go-generate/internal/domain"
+	"github.com/JscorpTech/go-generate/internal/providers"
 	"github.com/charmbracelet/huh"
 )
 

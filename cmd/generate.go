@@ -7,9 +7,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/JscorpTech/jst-go/go-generate/internal/domain"
-	"github.com/JscorpTech/jst-go/go-generate/internal/services"
-	"github.com/JscorpTech/jst-go/go-generate/internal/utils"
+	"github.com/JscorpTech/go-generate/internal/domain"
+	"github.com/JscorpTech/go-generate/internal/services"
+	"github.com/JscorpTech/go-generate/internal/utils"
 	"github.com/charmbracelet/huh"
 	"github.com/spf13/cobra"
 )

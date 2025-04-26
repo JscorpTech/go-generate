@@ -5,8 +5,8 @@ import (
 	"log"
 	"text/template"
 
-	"github.com/JscorpTech/jst-go/go-generate/internal/domain"
-	"github.com/JscorpTech/jst-go/go-generate/internal/utils"
+	"github.com/JscorpTech/go-generate/internal/domain"
+	"github.com/JscorpTech/go-generate/internal/utils"
 )
 
 type tpf[T any] struct {

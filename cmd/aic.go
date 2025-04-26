@@ -4,7 +4,7 @@ Copyright © 2025 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/JscorpTech/jst-go/go-generate/internal/services"
+	"github.com/JscorpTech/go-generate/internal/services"
 	"github.com/spf13/cobra"
 )
 
